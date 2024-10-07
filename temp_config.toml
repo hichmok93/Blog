@@ -1,0 +1,4 @@
+baseURL = "https://hichmok93.github.io/blog/"
+languageCode = "en-us"
+title = "Mijn Hugo Blog"
+theme = "hugo.github.io"
