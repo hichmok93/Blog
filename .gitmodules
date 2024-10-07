@@ -7,3 +7,6 @@
 [submodule "themes/hugo.github.io"]
 	path = themes/hugo.github.io
 	url = https://github.com/hichmok93/hugo.github.io.git
+[submodule "themes/hugo-theme-gallery"]
+	path = themes/hugo-theme-gallery
+	url = https://github.com/hichmok93/hugo-theme-gallery.git
