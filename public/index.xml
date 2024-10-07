@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mijn Hugo Blog</title>
-    <link>https://hichmok93.github.io/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content on Mijn Hugo Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://hichmok93.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
