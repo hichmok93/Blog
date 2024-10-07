@@ -4,3 +4,6 @@
 [submodule "hms/themes/gallery"]
 	path = hms/themes/gallery
 	url = https://github.com/nicokaiser/hugo-theme-gallery.git
+[submodule "themes/hugo.github.io"]
+	path = themes/hugo.github.io
+	url = https://github.com/hichmok93/hugo.github.io.git
