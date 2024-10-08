@@ -1,8 +1,0 @@
-baseURL = 'https://moki.github.io/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "hugo-theme-gallery"
-
-[module]
-  [[module.imports]]
-    path = "github.com/nicokaiser/hugo-theme-gallery/v4"
